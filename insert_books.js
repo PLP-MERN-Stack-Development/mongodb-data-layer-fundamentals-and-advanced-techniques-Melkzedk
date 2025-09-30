@@ -152,4 +152,3 @@ async function run() {
 }
 
 run();
-```
